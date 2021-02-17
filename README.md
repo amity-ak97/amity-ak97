@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-<img align="right" alt="GIF" src="./coder.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./coder.gif" width="500" height="320" style="margin-bottom: 20px"/>
 
 - 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
