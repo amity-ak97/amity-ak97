@@ -7,10 +7,10 @@ Here are some ideas to get you started: -->
 <img align="right" alt="GIF" src="./coder.gif" width="450" height="300"/>
 
 - 🔭 I’m currently working on Major Project!
-- 🌱 I’m currently learning Software Development with Flutter
+- 🌱 I’m currently learning "Software Development with Flutter"
 - 👯 I’m looking to collaborate on some open-source projects
-- 🤔 I’m looking for help with Linux Kernel Development
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with "Linux Kernel Development"
+- 💬 Ask me about some tips to stay motivated
 - 📫 How to reach me: [Twitter]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Most of the time people find my physical appearance funny!
