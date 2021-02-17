@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-<img align="right" alt="GIF" src="./coder.gif" width="500" height="320"/>
+<img align="right" alt="GIF" src="./coder.gif" width="450" height="300"/>
 
 - 🔭 I’m currently working on Major Project!
 - 🌱 I’m currently learning Software Development with Flutter
