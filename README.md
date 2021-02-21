@@ -31,6 +31,8 @@
 
 <p><img align="left" src="https://github-readme-stats.amity-ak97.vercel.app/api/top-langs?username=amity-ak97&show_icons=true&locale=en&layout=compact" alt="amity-ak97" /></p>
 
+<i>*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.</i>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.amity-ak97.vercel.app/api?username=amity-ak97&show_icons=true&locale=en" alt="amity-ak97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amity-ak97&" alt="amity-ak97" /></p>
