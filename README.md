@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.amity-ak97.vercel.app/api/top-langs?username=amity-ak97&show_icons=true&locale=en&layout=compact" alt="amity-ak97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.amity-ak97.vercel.app/api?username=amity-ak97&show_icons=true&locale=en" alt="amity-ak97" /></p>
+<p><img align="center" src="https://github-readme-stats.amity-ak97.vercel.app/api?username=amity-ak97&show_icons=true&locale=en" alt="amity-ak97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amity-ak97&" alt="amity-ak97" /></p>
 
