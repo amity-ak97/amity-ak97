@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A passionate software developer from Nepal</h3>
+<h3 align="center">A passionate programmer from Nepal</h3>
 
 <img align="right" alt="GIF" src="./coder.gif" width="450" height="300"/>
 
