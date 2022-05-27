@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Amit! 👋
 
-<!--
-**amity-ak97/amity-ak97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a flutter developer
 
-Here are some ideas to get you started:
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Flutter Food Delivery App with Laravel Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I'm currently learning DSA
+
+🤔 I'm looking for help with Laravel Backend setup with Flutter frontend
+ 
+💬 Ask me about Flutter maybe.
+
+📫 How to reach me [Twitter](https://www.twitter.com/amity_ak97)
+
+😄 Pronouns- He/Him
+
+⚡️ Fun fact- Hippo's sweat is Pink in colour
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amity_ak97)
+
+
+## 🛠 Skills
+Flutter, Git and GitHub, Android App Development, Javascript, HTML, CSS
